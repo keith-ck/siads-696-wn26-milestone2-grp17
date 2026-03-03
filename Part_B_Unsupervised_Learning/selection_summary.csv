@@ -1,0 +1,4 @@
+selection_role,representation,method,k,cov_type,criterion,silhouette,davies_bouldin,calinski_harabasz,rank_sum
+primary_narrative,big5_plus_engineered,kmeans,2,,kmeans_family_priority_then_separability,0.199998387274657,1.754084889017136,5577.998825917681,9.0
+cross_method_alternative,big5_plus_engineered,kmeans,3,,composite_rank_sum_across_methods,0.185717969064261,1.5976481550216246,5114.6262697479,11.0
+gmm_family_reference,big5_plus_engineered,gmm_diag,3,diag,gmm_family_rank_sum,0.1751468870662944,1.637913716180014,4786.717133129977,5.0
